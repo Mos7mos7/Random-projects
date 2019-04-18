@@ -60,3 +60,4 @@ class comp:
 
 cmp=comp()
 cmp.add("2+i2","2+i2")
+#simple script to deal with complex nums
